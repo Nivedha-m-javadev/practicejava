@@ -1,29 +1,45 @@
-# 🌟 Java Practice Projects by Nivedha
+# Java Practice Projects by Nivedha
 
-Welcome to my **Java Practice Repository**, where I’m building my foundation in Core Java, OOP, and backend logic — one project at a time! 💛
-
-## 📁 Projects Covered
-
-- 🔢 **Calculator** using methods and return types
-- 💬 **StringOperations** with length, reverse, uppercase
-- 🔍 **Name Search App** using arrays and string comparison
-- 🚫 **Exception Handling** with try-catch (divide by zero)
-- 🧠 **OOP Practice** with class separation and object logic
-- 🧪 More practice files coming soon...
-
-## 💻 What I'm Learning
-
-- Core Java syntax & structure
-- Clean code formatting & method creation
-- Real-world logic: arrays, strings, loops, conditions
-- Handling errors gracefully with try-catch
-- Working with Git, IntelliJ, and GitHub
-
-## 🚀 About Me
-
-Hi! I’m **Nivedha**, a Junior Software Developer currently leveling up my backend skills one project at a time.  
-I’m learning with love, care, and loads of `System.out.println()` 💻✨
+This repository contains Java mini-projects that I've built while learning and practicing core backend development skills. Each project is designed to help strengthen my understanding of Java fundamentals, clean coding, and object-oriented programming.
 
 ---
 
-> 💫 Built with ❤️ and Java — by me!
+## Projects Included
+
+| Project             | Description                                             |
+|---------------------|---------------------------------------------------------|
+| Calculator           | Uses methods and return types for basic math operations  
+| StringOperations     | Covers length, uppercase, reverse, first letter  
+| NameSearch App       | Uses arrays and string comparison logic  
+| Exception Handling   | try-catch for handling runtime errors (like divide by zero)  
+| Class-Based Structure| Practice of clean class and main separation
+
+---
+
+## What I'm Learning
+
+- Java syntax and structure
+- Clean method creation and usage
+- String operations and manipulation
+- Arrays, loops, and conditionals
+- Exception handling
+- Organizing code using classes and objects
+- Git & GitHub version control
+
+---
+
+## Sample Code
+
+```java
+// Reverse a string using loop
+public String reverse(String input) {
+    String reversed = "";
+    for (int i = input.length() - 1; i >= 0; i--) {
+        reversed += input.charAt(i);
+    }
+    return reversed;
+}
+About Me
+I'm Nivedha, a Junior Software Developer at Cognizant.
+This repo is part of my ongoing journey to build confidence and clarity in backend development.
+Each project is a step forward in becoming a stronger Java developer.
