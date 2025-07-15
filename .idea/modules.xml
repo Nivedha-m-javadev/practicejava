@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CheckString/CheckString.iml" filepath="$PROJECT_DIR$/CheckString/CheckString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TryingOutString/TryingOutString.iml" filepath="$PROJECT_DIR$/TryingOutString/TryingOutString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prac3/prac3.iml" filepath="$PROJECT_DIR$/prac3/prac3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prac4/prac4.iml" filepath="$PROJECT_DIR$/prac4/prac4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practicejava.iml" filepath="$PROJECT_DIR$/practicejava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practicejava2/practicejava2.iml" filepath="$PROJECT_DIR$/practicejava2/practicejava2.iml" />
+    </modules>
+  </component>
+</project>
